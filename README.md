@@ -1,5 +1,7 @@
 # **Online supplement**: A cultural evolutionary model for the law of abbreviation
 
+[![DOI](https://zenodo.org/badge/11355636.svg)](https://zenodo.org/badge/latestdoi/11355636) 
+
 Authors: 
 
 - Olivier Morin
