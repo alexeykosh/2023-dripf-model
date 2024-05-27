@@ -1,6 +1,6 @@
 # **Online supplement**: A cultural evolutionary model for the law of abbreviation
 
-[![DOI](https://zenodo.org/badge/11355636.svg)](https://zenodo.org/badge/latestdoi/11355636) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11355636.svg)](https://doi.org/10.5281/zenodo.11355636)
 
 Authors: 
 
