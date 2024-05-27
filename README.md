@@ -10,9 +10,21 @@ Authors:
 
 ## Reproduction 
 
-### Requirements:
+### Downloading the code & requirements:
 
-The code provided in this repository was executed using Python 3.11.7. All the required packages are listed in the `requirements.txt` file. To install the required packages, run the following command:
+The code provided in this repository was executed using Python 3.11.7. First, clone the repository:
+
+```bash
+git clone https://github.com/alexeykosh/2023-dripf-model/tree/main
+```
+
+Then, navigate to the repository:
+
+```bash
+cd 2023-dripf-model
+```
+
+All the required packages are listed in the `requirements.txt` file. To install the required packages, run the following command:
 
 ```bash
 pip install -r requirements.txt
@@ -20,7 +32,7 @@ pip install -r requirements.txt
 
 ### Data:
 
-Data for the empirical results can be downloaded from the following [link](http://www.christianbentz.de/AdaptiveLanguages/AdaptLang.zip). This data was used in the [Bentz & Ferrer-i-Cancho, 2016](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/68639) paper. The data is stored in the `FreqDists_50K` folder.
+Data for the empirical results can be downloaded from the following [link](http://www.christianbentz.de/AdaptiveLanguages/AdaptLang.zip). This data was used in the [Bentz & Ferrer-i-Cancho, 2016](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/68639) paper. The data is stored in the `FreqDists_50K` folder, which needs to be put in the `data` folder of this repository.
 
 ### Code:
 
