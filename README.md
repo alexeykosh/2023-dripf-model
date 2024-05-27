@@ -1,5 +1,4 @@
-# A cultural evolutionary model for the law of abbreviation
-### **Online supplement**
+# **Online supplement**: A cultural evolutionary model for the law of abbreviation
 
 Authors: 
 
