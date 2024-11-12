@@ -39,4 +39,4 @@ Data for the empirical results can be downloaded from the following [link](http:
 
 - [empirical data](https://github.com/alexeykosh/2023-dripf-model/blob/main/notebooks/empirical_data.ipynb) contains the code for the reproduction of Figures 1 & 2 from the paper that are based on the empirical data.
 
-- [model](https://github.com/alexeykosh/2023-dripf-model/blob/main/notebooks/model.ipynb) contains the code for the reproduction of Figures 3 & 4 from the paper that are based on the cultural evolutionary model of the law of abbreviation. The code for the model is implemented in the same notebook.
+- [model](https://github.com/alexeykosh/2023-dripf-model/blob/main/notebooks/model.ipynb) contains the code for the reproduction of Figures 3 & 4 from the paper that are based on the cultural evolutionary model of the law of abbreviation. The code for the model is implemented [here](https://github.com/alexeykosh/2023-dripf-model/blob/main/src/util.py).
